@@ -1,0 +1,87 @@
+ <group id="aaJn4TNRPA26">
+        <trans-unit id="aaJn4TNRPA26:a7718335aca6f4482d25c5c24a0fc3f6be824ead" maxbytes="2048">
+          <source>Pay Status: 
+Number of claims predicted correctly as pay/ Number of claims predicted as pay
+		
+Pay Amount: 
+Number of claims predicted correct pay amount/ Number of claims predicted as pay
+		
+Pay x-y:
+Number of claims predicted correct pay amount in [x,y)/ Number of claims predicted amount in [x,y)
+		
+Attention, calculation of these metrics are only based on the last analysis of each claim, and it is aggregated by last analysis date.</source>
+          <target>Statut du paiement: \nNombre de demandes prédites correctement comme paiement/Nombre de demandes prédites comme paiement\n \nMontant du paiement: \nNombre de demandes prédites montant de paiement correct/Nombre de demandes prédites comme paiement\n \nPaiement x-y:\nNombre de demandes prédites montant de paiement correct dans [x,y)/Nombre de demandes prédites montant dans [x,y)\n \nAttention, le calcul de ces métriques est uniquement basé sur la dernière analyse de chaque demande, et elles sont agrégées par date de dernière analyse.</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:40824101dbd617cd55f5679556e63a7371444aa8" maxbytes="2048">
+          <source>[Claim] Pay Accuracy Amount</source>
+          <target/>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:31f4a87858cb15384ca640a8fb802d4631eda59a" maxbytes="2048">
+          <source>[Claim] - Precision Pay Status</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:32171e97a8b0534acb01cd77c8dc401b3a5a10cf">
+          <source>Pay Status</source>
+          <target>Statut du paiement</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:f58a06c3e667e7a635c29b25b7e5075e3ec2a184" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount</source>
+          <target/>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:bba044455f9451ce5e3b21b9e1e299b8835286fc" maxbytes="2048">
+          <source>Pay Amount</source>
+          <target>Montant du paiement</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:6769e155228076df26c3474afa1336277a51ef38" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount 0-1000</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:ea7da4a2e6bd3de7b2735fa37ac57b847d672e4d">
+          <source>Pay 0-1000</source>
+          <target>Paiement 0-1000</target>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:63329be88d66657a3dca3b2995b9a0f9f1098570">
+          <source>[Claim] - Precision Pay Amount 1000</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:520bca85d1eef1cff927ff1219767e0e9cf212b4">
+          <source>Pay &gt;1000</source>
+          <target>Paiement 1000</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:3cc107be8ff56e62a9381fe2a072bb1b64af240e" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount 0-600</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:8d9ccb40a3320e0bd95c82c18b31bc408ae6f71a">
+          <source>Pay 0-600</source>
+          <target>Paiement 0-600</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:944dc5a621169ce3f70ebc94acb35c4f90b703f1" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount 600</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:d11aac8afe5d482eba6d1e0ffae6bc547c1ccb70">
+          <source>Pay &gt; 600</source>
+          <target>Paiement 600</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:ddd7f5a1fc0df8bc7d38db5b235d8c8b28b93a82" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount 0-500</source>
+          <target/>
+        </trans-unit>
+        <trans-unit maxbytes="2048" id="aaJn4TNRPA26:97579a24255b49d17ae214a24ee6715114a3eb51">
+          <source>Pay 0-500</source>
+          <target>Paiement 0-500</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:109a6a75f985ffd436a1651cee193ae32f4e7b6c" maxbytes="2048">
+          <source>[Claim] - Precision Pay Amount 500</source>
+          <target/>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:112898572e343fa36a7e66ffa7d57ade0e861e01" maxbytes="2048">
+          <source>Pay &gt; 500</source>
+          <target>Paiement 500</target>
+        </trans-unit>
+        <trans-unit id="aaJn4TNRPA26:f82be68a7fb4e7dec88f27463de94ad355242ee5" maxbytes="2048">
+          <source>Week</source>
+          <target>Semaine</target>
+        </trans-unit>
+      </group>
