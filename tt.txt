@@ -1,0 +1,11 @@
+          <source>Pay Status: 
+Number of claims predicted correctly as pay/ Number of claims predicted as pay
+		
+Pay Amount: 
+Number of claims predicted correct pay amount/ Number of claims predicted as pay
+		
+Pay x-y:
+Number of claims predicted correct pay amount in [x,y)/ Number of claims predicted amount in [x,y)
+		
+Attention, calculation of these metrics are only based on the last analysis of each claim, and it is aggregated by last analysis date.</source>
+          <target>Statut du paiement: \nNombre de demandes prédites correctement comme paiement/Nombre de demandes prédites comme paiement\n \nMontant du paiement: \nNombre de demandes prédites montant de paiement correct/Nombre de demandes prédites comme paiement\n \nPaiement x-y:\nNombre de demandes prédites montant de paiement correct dans [x,y)/Nombre de demandes prédites montant dans [x,y)\n \nAttention, le calcul de ces métriques est uniquement basé sur la dernière analyse de chaque demande, et elles sont agrégées par date de dernière analyse.</target>
